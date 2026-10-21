@@ -78,7 +78,7 @@ Separately, Render monitors the connected repository, builds the application usi
 
 Project Links
 
-* GitHub Repository: [Insert your repository URL]
+* GitHub Repository: [https://github.com/henrychibzy/devops-cicd-project]
 * Live Application: [Insert your Render URL]
 
 Conclusion
